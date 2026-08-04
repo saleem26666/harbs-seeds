@@ -1,0 +1,18 @@
+export const colors = {
+  forest: '#1A3C2A',
+  leaf: '#2F6B4F',
+  moss: '#4C9A6E',
+  mint: '#B7E4C7',
+  mist: '#EAF6EF',
+  sand: '#F7F4EE',
+  cream: '#FFFDF8',
+  bark: '#3D2B1F',
+  ink: '#1C241E',
+  mute: '#5E6B62',
+  line: '#D5E5DA',
+  danger: '#9B3B2F',
+  dangerSoft: '#F8E8E5',
+  gold: '#C4A35A',
+  white: '#FFFFFF',
+  overlay: 'rgba(26, 60, 42, 0.55)',
+};
